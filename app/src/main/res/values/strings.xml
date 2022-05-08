@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+
+    <string-array name="currencies">
+        <item>HUF</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>CHF</item>
+        <item>RSD</item>
+    </string-array>
+</resources>
